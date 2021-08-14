@@ -1,9 +1,13 @@
-= An Agreement Between Landlord And Lodger For The UK
-:toc: preamble
-:toclevels: 2
+= Lodger Agreement
 
 Disclaimer: I'm not a lawyer, so use this document at your own risk.
 
+This is a template agreement for renting out a room to a lodger. It's applicable
+to England and Wales. Copy the document below into an editor, fill in the fields
+at the top and then then print out and then sign.
+
+
+== Lodger Agreement
 
 * Landlord's Name:
 * Landlord's Address:
