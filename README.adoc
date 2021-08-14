@@ -1,10 +1,11 @@
 = Lodger Agreement
 
-Disclaimer: I'm not a lawyer, so use this document at your own risk.
+Disclaimer: This is not to be used as a legal document. I'm not a lawyer. Use
+this document at your own risk.
 
-This is a template agreement for renting out a room to a lodger. It's applicable
-to England and Wales. Copy the document below into an editor, fill in the fields
-at the top and then then print out and then sign.
+This is a template agreement for renting out a room to a lodger. Copy the
+document below into an editor, fill in the fields at the top and then then
+print out and then sign.
 
 
 == Lodger Agreement
