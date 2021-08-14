@@ -1,0 +1,37 @@
+= An Agreement Between Landlord And Lodger For The UK
+:toc: preamble
+:toclevels: 2
+
+
+* Landlord's Name:
+* Landlord's Address:
+* Lodger's Name:
+* Start Date:
+* Deposit £:
+* Rent £:
+* Lodger's Room:
+* Shared Areas:
+* Included Services: eg. Water, Electricity, Gas, Council Tax, Internet, Cleaner
+
+The Lodger agrees to pay to the Landlord the above Deposit and Rent on the Start
+Date, and the Rent thereafter each calendar month. The Landlord agrees to
+provide the Lodger's Room for the use of the Lodger as well as the shared
+use of the Shared Areas. The Landlord also agrees to provide the Included
+Services at no extra charge. The agreement may be terminated by either the
+Lodger or the Landlord, by giving written notice at least one calendar month in
+advance.
+
+
+Landlord's Signature:
+
+Date:
+
+
+Lodger's Signature:
+
+Date:
+
+
+
+This work is licensed under a
+https://creativecommons.org/publicdomain/zero/1.0/[CC0 licence].
