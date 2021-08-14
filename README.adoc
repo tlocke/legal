@@ -16,16 +16,15 @@ at the top and then then print out and then sign.
 * Deposit £:
 * Rent £:
 * Lodger's Room:
-* Shared Areas:
 * Included Bills: eg. Water, Electricity, Gas, Council Tax, Internet, Cleaner
 
 The Lodger agrees to pay to the Landlord the above Deposit and Rent on the Start
 Date, and the Rent thereafter each calendar month. The Landlord agrees to
-provide the Lodger's Room for the use of the Lodger as well as the shared
-use of the Shared Areas. The Landlord also agrees that there will be no extra
-charge for the the Included Bills. The agreement may be terminated by either
-the Lodger or the Landlord, by giving written notice at least one calendar month
-in advance.
+provide the Lodger's Room for the use of the Lodger. The Lodger also has the
+shared use of the rest of the house (except the other bedrooms) and garden. The
+Landlord agrees that there will be no extra charge for the the Included Bills.
+The agreement may be terminated by either the Lodger or the Landlord, by giving
+written notice at least one calendar month in advance.
 
 
 Landlord's Signature:
