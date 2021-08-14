@@ -2,6 +2,8 @@
 :toc: preamble
 :toclevels: 2
 
+Disclaimer: I'm not a lawyer, so use this document at your own risk.
+
 
 * Landlord's Name:
 * Landlord's Address:
