@@ -10,22 +10,42 @@ print out and then sign.
 
 == Lodger Agreement
 
-* Landlord's Name:
-* Landlord's Address:
-* Lodger's Name:
-* Start Date:
-* Deposit £:
-* Rent £:
-* Lodger's Room:
-* Included Bills: eg. Water, Electricity, Gas, Council Tax, Internet, Cleaner
+* *Landlord's Name:*
+* *Landlord's Address:*
+* *Lodger's Name:*
+* *Start Date:*
+* *Deposit £:*
+* *Rent £:*
+* *Lodger's Room:* eg. Upstairs big bedroom
+* *Included Bills:* eg. Water, Electricity, Gas, Council Tax, Internet, Cleaner
+
+The Landlord agrees to provide the Lodger’s Room for the use of the Lodger. The Lodger
+also has the shared use of the rest of the house (except other people's bedrooms) and
+garden.
+
+=== Deposit & Rent
 
 The Lodger agrees to pay to the Landlord the above Deposit and Rent on the Start
-Date, and the Rent thereafter each calendar month. The Landlord agrees to
-provide the Lodger's Room for the use of the Lodger. The Lodger also has the
-shared use of the rest of the house (except the other bedrooms) and garden. The
-Landlord agrees that there will be no extra charge for the the Included Bills.
+Date, and the Rent thereafter each calendar month. The Landlord agrees that there
+will be no extra charge for the Included Bills.
+
+The Landlord will be entitled at the end of the occupancy agreement to deduct from
+the deposit any sums due by the Lodger to cover the cost of repairing or replacing
+any broken, damaged or lost items and the expense of making good any failure by
+the Lodger to fulfil any other conditions of the occupancy agreement.
+
+The deposit will be refunded to the Lodger within 10 days after the termination of the
+agreement. A list of deductions from the deposit will be attached where deductions
+have been made, notwithstanding fair wear and tear.
+
+
+=== Termination
+
 The agreement may be terminated by either the Lodger or the Landlord, by giving
 written notice at least one calendar month in advance.
+
+If the termination date is part way through a rental month, then the unused proportion
+of the rent will be returned to the Lodger.
 
 
 Landlord's Signature:
